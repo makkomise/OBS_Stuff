@@ -6,6 +6,8 @@ Why? Because YT Music lacks native app, and i have a distrust on 3rd party apps,
 
 Now available in Edge's Addons: https://microsoftedge.microsoft.com/addons/detail/ytmusic_obs/fmgcoomclaaobpkbojgpdmjjnkdoebja
 
+
+
 Prerequisites: 
 - OBS
 - Microsoft Edge (Install the addon above) OR Google Chrome (See Instructions below)
@@ -16,6 +18,8 @@ Prerequisites:
 2) Open OBS, Go to Tools -> Tuna settings. In the basics tab, put Song source as "Web browser", Apply and OK.
 3) Download Kaga's Widget, make a new browser source in OBS, check "Local file" and put your widget path there. Put Width to 800, Height to 250. Adjust size in the preview later on for your needs.
 4) Install the Edge Plugin (link above)
+
+
 
 OPTIONAL: INSTALLING YTMUSIC AS A STANDALONE WEBAPP VIA EDGE
 
