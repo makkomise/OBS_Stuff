@@ -6,7 +6,7 @@ tunaWidget.html made by Kagashin, all credit to him. Just here for easy access.
 
 Why? Because YT Music lacks native app, and i have a distrust on 3rd party apps, and also chromium-based apps can do pwa so that's why this exists.
 
-Now available for Microsoft Edge in Edge's Addons: https://microsoftedge.microsoft.com/addons/detail/ytmusic\_obs/fmgcoomclaaobpkbojgpdmjjnkdoebja
+Now available for Microsoft Edge in Edge's Addons: [https://microsoftedge.microsoft.com/addons/detail/ytmusic\_obs/fmgcoomclaaobpkbojgpdmjjnkdoebja](https://microsoftedge.microsoft.com/addons/detail/ytmusic\_obs/fmgcoomclaaobpkbojgpdmjjnkdoebja)
 
 
 
