@@ -1,12 +1,5 @@
-# Music Widget
-
-This is a fork from Tuna's TamperMonkey script, i just cleaned off everything i don't need and made it into standalone extension.
-
-tunaWidget.html made by Kagashin, all credit to him. Just here for easy access.
-
-Why? Because YT Music lacks native app, and i have a distrust on 3rd party apps, and also chromium-based apps can do pwa so that's why this exists.
-
-Now available for Microsoft Edge in Edge's Addons: [https://microsoftedge.microsoft.com/addons/detail/ytmusic\_obs/fmgcoomclaaobpkbojgpdmjjnkdoebja](https://microsoftedge.microsoft.com/addons/detail/ytmusic\_obs/fmgcoomclaaobpkbojgpdmjjnkdoebja)
+# This is just a random collection of stuff that i've done and/or modified or used with the owners's permit to share. 
+# Since it's just a one bald dude, no warranties on any of this spaghetti working in future patches, but if something doesn't work, hit me up on Discord and i'll try my best to help you.
 
 
 
