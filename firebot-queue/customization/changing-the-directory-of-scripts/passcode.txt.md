@@ -21,7 +21,7 @@ This command references the passcode.txt on sending the room code via Whisper to
 * Change the path in the highlighted part
 * Remember to save!
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 **!queue close**
 

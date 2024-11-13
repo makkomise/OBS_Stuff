@@ -2,14 +2,14 @@
 
 Go to Effects -> Conditional Effects -> Edit Effect
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **If - statement**
 
 * Click on the condition pass - statement, it opens the Edit Condition menu
 * Change the highlighted path to your choosing
 
-<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Otherwise - statement**
 
