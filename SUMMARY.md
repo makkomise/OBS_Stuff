@@ -1,0 +1,18 @@
+# Table of contents
+
+* [This is just a random collection of stuff that i've done and/or modified or used with the owners's p](README.md)
+* [Firebot Queue](firebot-queue/README.md)
+  * [Setting up](firebot-queue/docs.md)
+  * [Viewer commands](firebot-queue/viewer-commands.md)
+  * [Admin commands](firebot-queue/admin-commands/README.md)
+    * [Streamer](firebot-queue/admin-commands/streamer.md)
+    * [Moderators](firebot-queue/admin-commands/moderators.md)
+  * [Customization](firebot-queue/customization/README.md)
+    * [Follow check](firebot-queue/customization/follow-check.md)
+    * [Permissions](firebot-queue/customization/permissions.md)
+    * [Bot messages](firebot-queue/customization/bot-messages.md)
+* [Music Widget](music-widget/README.md)
+  * [Prerequisites](music-widget/prerequisites.md)
+  * [For Chrome users](music-widget/for-chrome-users.md)
+  * [Instructions](music-widget/instructions.md)
+  * [Optional: Install Youtube Music locally](music-widget/optional-install-youtube-music-locally.md)
