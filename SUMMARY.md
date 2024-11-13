@@ -1,6 +1,6 @@
 # Table of contents
 
-* [This is just a random collection of stuff that i've done and/or modified or used with the owners's p](README.md)
+* [Random OBS Spaghetti](README.md)
 * [Firebot queue](firebot-queue/README.md)
   * [Setting up](firebot-queue/docs.md)
   * [Viewer commands](firebot-queue/viewer-commands.md)
