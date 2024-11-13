@@ -10,6 +10,8 @@ Example: _!queue key peepee-poopoo_
 
 
 
-**!queue "number"** - selects the designated amount of people from the top of the list, sends them the room code via Twitch whisper and deletes them from the line. Also sends a chat message saying how many people are selected and dinkdonks (message can be customized (here))
+**!queue pick \[number]** - selects the designated amount of people from the top of the list, sends them the room code via Twitch whisper and deletes them from the line. Also sends a chat message saying how many people are selected and dinkdonks.
 
-Example: _!queue 69_ (sends the code for 69 people in your list if you have so many in the queue)
+**Example: **_**!queue pick 69**_ (sends the code for 69 people in your list if you have so many in the queue)
+
+**NOTICE:** Please for the love of god only use numbers. I warned ya.

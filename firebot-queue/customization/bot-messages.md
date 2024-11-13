@@ -8,13 +8,13 @@ Currently bot posts a message on your chat on following commands:&#x20;
 
 **!queue close** - "Queue is now closed! Thank you for participating!"
 
-**!queue join** - "$username you have been added to the queue!", IF user is already in the queue: "You are already in the queue!"&#x20;
+**!queue join** - "$username you have been added to the queue!", IF user is already in the queue: "$username you are already in the queue!"&#x20;
 
-**!queue leave** - "You have left the queue!"
+**!queue leave** - "$username you have left the queue!"
 
-**!queue \[number]** - "dangilDinkdonk \[amount] peepos in chat should've got a whisper from Brokenrobo! dangilDinkdonk"
+**!queue pick \[number]** - "dangilDinkdonk \[amount] peepos in chat should've got a whisper from Brokenrobo! dangilDinkdonk"
 
-**!queue position** - TBA
+
 
 
 

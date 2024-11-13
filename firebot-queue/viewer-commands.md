@@ -2,6 +2,6 @@
 
 Commands that are public and accessable to viewers:
 
-* !queue join - adds viewer to the line
-* !queue leave - removes viewer from the line
-* (!queue position - shows the position of viewer in the line) wip
+* !queue join - Adds viewer to the line
+* !queue leave - Removes viewer from the line
+* !queue viewers - Shows the total amount of viewers waiting in queue

@@ -7,6 +7,7 @@ queue.txt is referenced in the following subcommands of !queue command:
 * join
 * leave
 * close
-* \[number] #
-*
+* pick \[number]
+
+
 

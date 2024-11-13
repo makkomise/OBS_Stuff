@@ -1,10 +1,10 @@
-# \[number] \#
+# pick \[number]
 
 queue.txt will be referenced here on 2 different Effects, make sure to edit both!
 
 
 
-**Effects -> Loop Effects -> Chat ->** Edit Effect
+**Effects -> Conditional Effects -> If -> Loop Effects -> Chat ->** Edit Effect
 
 Edit the highlighted part with the path of your queue.txt, but be careful not to accidentally delete anything from the syntax
 
@@ -12,7 +12,7 @@ Edit the highlighted part with the path of your queue.txt, but be careful not to
 
 
 
-**Effects -> Loop Effects -> Write To File ->** Edit effect
+**Effects -> Conditional Effects -> If -> Loop Effects ->  Write To File ->** Edit effect
 
 Press "Choose File", browse to find your queue.txt
 

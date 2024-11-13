@@ -1,5 +1,5 @@
 ---
-description: following commands are available for streamer and moderators!
+description: following commands are available for the streamer and moderators!
 ---
 
 # Moderators
