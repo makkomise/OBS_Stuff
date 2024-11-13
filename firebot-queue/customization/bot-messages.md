@@ -1,10 +1,10 @@
-# Bot messages
+# Default bot messages
 
 Currently bot posts a message on your chat on following commands:&#x20;
 
 **!queue** - "Use !queue join to join the queue, !queue leave to peepoLeave"
 
-**!queue open** - "The queue is now open! !queue join to get in the line"
+**!queue open** - "The queue is now open! Use !queue join to get in the line"
 
 **!queue close** - "Queue is now closed! Thank you for participating!"
 
