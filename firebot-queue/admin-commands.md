@@ -16,6 +16,18 @@ Example: _!queue key peepee-poopoo_
 
 **Example: **_**!queue pick 69**_ (sends the code for 69 people in your list)
 
+**WORD OF CAUTION: The number of users to pick is not limited; HOWEVER if you pick a big number, your bot might come and shank you while you sleep. Just kidding, but it will take some time to iterate through the list so patience is needed. Also don't blame me if you get shanked, i warned you.**
+
+
+
+**!queue remove \[user]**
+
+Removes any certain user from your queue, should there ever be need for it.
+
+Example: !queue remove peepeepoopooman (removes the user peepeepoopooman from the queue)
+
+
+
 
 
 STREAMER AND MODERATORS:

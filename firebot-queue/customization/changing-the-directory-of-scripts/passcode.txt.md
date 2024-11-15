@@ -17,7 +17,7 @@ Passcode.txt will be referenced here the first time, to adjust:
 This command references the passcode.txt on sending the room code via Whisper to your chat members
 
 * Go to Edit Command -> Subcommands -> "pick \[number]"
-* Go to Effects -> Loop Effect -> Edit Effect -> Effects -> Chat
+* Go to Effects -> Conditional Effects ->  If -> Loop Effects -> Chat
 * Change the path in the highlighted part
 * Remember to save!
 

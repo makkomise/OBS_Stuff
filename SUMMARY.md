@@ -16,6 +16,7 @@
         * [leave](firebot-queue/customization/changing-the-directory-of-scripts/queue.txt/leave.md)
         * [close](firebot-queue/customization/changing-the-directory-of-scripts/queue.txt/close.md)
         * [pick \[number\]](firebot-queue/customization/changing-the-directory-of-scripts/queue.txt/pick-number.md)
+        * [position](firebot-queue/customization/changing-the-directory-of-scripts/queue.txt/position.md)
 * [Music Widget](music-widget/README.md)
   * [Prerequisites](music-widget/prerequisites.md)
   * [Instructions](music-widget/instructions.md)

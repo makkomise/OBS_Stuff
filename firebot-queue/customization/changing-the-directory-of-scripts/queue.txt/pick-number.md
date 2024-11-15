@@ -1,6 +1,6 @@
 # pick \[number]
 
-queue.txt will be referenced here on 2 different Effects, make sure to edit both!
+queue.txt will be referenced here on 3 different Effects, make sure to edit all of them!
 
 
 
@@ -17,4 +17,3 @@ Edit the highlighted part with the path of your queue.txt, but be careful not to
 Press "Choose File", browse to find your queue.txt
 
 <figure><img src="../../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
-
