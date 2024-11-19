@@ -16,6 +16,12 @@ Example: _!queue key peepee-poopoo_
 
 **Example: **_**!queue pick 69**_ (sends the code for 69 people in your list)
 
+
+
+**!queue pick all** - Selects every user from the queue and sends them the code. Depending on the queue length, this might take some time.
+
+
+
 **WORD OF CAUTION: The number of users to pick is not limited; HOWEVER if you pick a big number, your bot might come and shank you while you sleep. Just kidding, but it will take some time to iterate through the list so patience is needed. Also don't blame me if you get shanked, i warned you.**
 
 
